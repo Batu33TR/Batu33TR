@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Batu33TR/Batu33TR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
