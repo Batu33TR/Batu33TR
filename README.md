@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![Batu33TR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batu33TR&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## *ShellBot Workflow Status*
-[![Telegram ShellBot](https://github.com/Batu33TR/shellbot-workflow-nd/actions/workflows/nd-shell.yml/badge.svg)](https://github.com/Batu33TR/shellbot-workflow-nd/actions/workflows/nd-shell.yml)
+[![Telegram ShellBot Runner](https://github.com/Batu33TR/shellbot-workflow-nd/actions/workflows/nd-shell.yml/badge.svg?branch=main)](https://github.com/Batu33TR/shellbot-workflow-nd/actions/workflows/nd-shell.yml)
 
 ## *MirrorBot Workflow Status*
 [![Telegram MirrorBot Runner](https://github.com/Batu33TR/mirrorbot-workflow/actions/workflows/mirror-bot.yml/badge.svg)](https://github.com/Batu33TR/mirrorbot-workflow/actions/workflows/mirror-bot.yml)
